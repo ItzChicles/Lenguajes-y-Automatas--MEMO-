@@ -1,0 +1,14 @@
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\bin\Debug\net8.0\Lenguajes y Automatas (MEMO).exe
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\bin\Debug\net8.0\Lenguajes y Automatas (MEMO).deps.json
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\bin\Debug\net8.0\Lenguajes y Automatas (MEMO).runtimeconfig.json
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\bin\Debug\net8.0\Lenguajes y Automatas (MEMO).dll
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\bin\Debug\net8.0\Lenguajes y Automatas (MEMO).pdb
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\Lenguajes y Automatas (MEMO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\Lenguajes y Automatas (MEMO).AssemblyInfoInputs.cache
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\Lenguajes y Automatas (MEMO).AssemblyInfo.cs
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\Lenguajes y Automatas (MEMO).csproj.CoreCompileInputs.cache
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\Lenguajes y Automatas (MEMO).dll
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\refint\Lenguajes y Automatas (MEMO).dll
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\Lenguajes y Automatas (MEMO).pdb
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\Lenguajes y Automatas (MEMO).genruntimeconfig.cache
+C:\Users\az90c\OneDrive\Escritorio\Lenguajes y Automatas (MEMO)\obj\Debug\net8.0\ref\Lenguajes y Automatas (MEMO).dll
